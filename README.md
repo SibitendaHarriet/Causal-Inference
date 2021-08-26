@@ -49,13 +49,6 @@ Data can be found: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wiscons
 * suppleness (local variation in radius lengths)
 * compactness (area2 / perimeter2 — 1.0)
 
-### Notebooks
-
-
-
-### Scripts
-
-
 
 ### data exploration insights
 
